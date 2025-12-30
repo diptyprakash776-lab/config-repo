@@ -1,0 +1,8 @@
+spring:
+application:
+name:order-service
+datasource:
+url:jdbc:mysql://localhost:3306
+driverClassName:com.mysql
+show-sql:false
+ddla-suto:none
