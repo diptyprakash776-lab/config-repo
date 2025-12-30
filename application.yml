@@ -1,0 +1,13 @@
+global:
+      messages:welcome Microservice
+      logging:
+           level:
+           root:info
+           manageent:
+           endpoint:
+           web:
+           exposure:
+           include:health,info,refresh
+           endpoint:
+           helth:
+           show-detail:always
