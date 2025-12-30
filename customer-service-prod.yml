@@ -1,0 +1,14 @@
+global:
+message:
+server:
+port:
+messages:
+spring:
+datasource:
+url:
+username:
+passsword:
+jpa:
+hibernate:
+ddl-suto:
+show-sql:true
